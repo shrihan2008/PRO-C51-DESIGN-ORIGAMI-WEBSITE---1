@@ -10,8 +10,8 @@
 }
 body{
     margin: 0px;
-    /* modify background color here*/
-    background-color:#008080;
+
+    background-color:#6742e0;
     
 }
 
@@ -24,17 +24,17 @@ body{
     
 }
 .grid img{
-    border: 2px solid #d15555;
+    border: 2px solid #33ca98;
     border-radius: 50px;
 }
 .origami {
     
-    border-radius: 30px;
-    background-color: #121214;
-    /* modify margin and padding here*/
-    padding: 200px;
-    margin: 0px;
-    width:310px;
+    border-radius: 20px;
+    background-color: #ffffff;
+   
+    padding: 210px;
+    margin: 30px;
+    width:370px;
     font-family: fantasy;
     
 }
